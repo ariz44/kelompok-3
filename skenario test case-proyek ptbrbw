@@ -1,0 +1,56 @@
+PROYEK PJBL RAFli FASHION STORE
+
+1. Pendahuluan
+
+Test case digunakan untuk menguji apakah sistem website Rafli Fashion Store berjalan dengan baik sesuai dengan fungsi yang diharapkan. Pengujian dilakukan pada setiap fitur utama dalam website.
+
+2. Daftar Test Case
+2.1 Halaman Beranda (Dashboard)
+
+| No | Test Case                 | Langkah Pengujian | Hasil yang Diharapkan               | Status   |
+| -- | ------------------------- | ----------------- | ----------------------------------- | -------- |
+| 1  | Menampilkan halaman utama | Buka website      | Halaman beranda tampil dengan benar | Berhasil |
+| 2  | Tampilan judul & banner   | Lihat bagian atas | Judul dan banner terlihat jelas     | Berhasil |
+
+
+### **2.2 Menu Navigasi**
+
+| No | Test Case         | Langkah Pengujian | Hasil yang Diharapkan   | Status   |
+| -- | ----------------- | ----------------- | ----------------------- | -------- |
+| 1  | Klik menu Produk  | Klik menu produk  | Halaman produk tampil   | Berhasil |
+| 2  | Klik menu Promo   | Klik menu promo   | Halaman promo tampil    | Berhasil |
+| 3  | Klik menu Tentang | Klik menu tentang | Informasi toko muncul   | Berhasil |
+| 4  | Klik menu Kontak  | Klik menu kontak  | Informasi kontak tampil | Berhasil |
+
+---
+
+2.3 Halaman Produk
+
+| No | Test Case            | Langkah Pengujian   | Hasil yang Diharapkan      | Status   |
+| -- | -------------------- | ------------------- | -------------------------- | -------- |
+| 1  | Menampilkan produk   | Buka halaman produk | Daftar produk muncul       | Berhasil |
+| 2  | Gambar produk tampil | Lihat produk        | Gambar tampil dengan jelas | Berhasil |
+| 3  | Harga produk         | Lihat detail produk | Harga terlihat             | Berhasil |
+
+
+2.4 Tombol WhatsApp
+
+| No | Test Case          | Langkah Pengujian    | Hasil yang Diharapkan           | Status   |
+| -- | ------------------ | -------------------- | ------------------------------- | -------- |
+| 1  | Klik tombol beli   | Klik tombol WhatsApp | Dialihkan ke WhatsApp           | Berhasil |
+| 2  | Isi pesan otomatis | Klik tombol          | Pesan pemesanan muncul otomatis | Berhasil |
+
+
+2.5 Responsif Website
+
+| No | Test Case          | Langkah Pengujian  | Hasil yang Diharapkan       | Status   |
+| -- | ------------------ | ------------------ | --------------------------- | -------- |
+| 1  | Tampilan di HP     | Buka di smartphone | Tampilan menyesuaikan layar | Berhasil |
+| 2  | Tampilan di laptop | Buka di desktop    | Tampilan tetap rapi         | Berhasil |
+
+
+3. Kesimpulan Pengujian
+
+Berdasarkan hasil pengujian yang telah dilakukan, semua fitur pada website Rafli Fashion Store berjalan dengan baik dan sesuai dengan yang diharapkan. Website dapat digunakan sebagai media promosi dan pemesanan produk secara online.
+
+
