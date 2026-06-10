@@ -1,0 +1,17 @@
+TEST CASE POSITIVE
+RAFLI FASHION STORE
+
+10 TEST CASE POSITIVE
+
+| ID TEST CASE | KATEGORI | SKENARIO PENGUJIAN | TEST DATA                         | EXPECTED RESULT         | ACTUAL RESULT             | STATUS | 
+| ------------ | -------- | ------------------ | --------------------------------- | ----------------------- | ------------------------- | ------ | 
+| TC-P-01      | POSITIF  | Akses Website      | URL: http://localhost/rafli-store | Website berhasil dibuka | Website tampil di browser | PASS   | 
+| TC-P-02      | POSITIF  | Klik Menu Produk   | -                                 | Halaman produk tampil   | Halaman produk muncul     | PASS   | 
+| TC-P-03      | POSITIF  | Menampilkan Produk | Produk: baju, celana              | Produk tampil lengkap   | Produk terlihat jelas     | PASS   | 
+| TC-P-04      | POSITIF  | Klik Menu Promo    | -                                 | Halaman promo tampil    | Promo muncul              | PASS   | 
+| TC-P-05      | POSITIF  | Klik Menu Tentang  | -                                 | Informasi toko tampil   | Informasi muncul          | PASS   | 
+| TC-P-06      | POSITIF  | Klik Menu Kontak   | -                                 | Kontak ditampilkan      | Kontak tampil             | PASS   | 
+| TC-P-07      | POSITIF  | Klik Tombol Beli   | Produk dipilih                    | Redirect ke WhatsApp    | Berpindah ke WhatsApp     | PASS   | 
+| TC-P-08      | POSITIF  | Pesan Otomatis WA  | Produk: Hoodie                    | Pesan otomatis muncul   | Pesan sesuai produk       | PASS   | 
+| TC-P-09      | POSITIF  | Tampilan Mobile    | Akses via HP                      | Tampilan responsif      | Tampilan menyesuaikan     | PASS   | 
+| TC-P-10      | POSITIF  | Tampilan Desktop   | Akses via Laptop                  | Tampilan rapi           | Layout sesuai             | PASS   | 
